@@ -52,6 +52,7 @@ Automated Detection: Successfully automated the detection and analysis of food q
 Secure API: Developed a secure and scalable REST API to handle data from multiple IoT devices.
 Real-Time Analysis: Enabled real-time food quality monitoring and feedback through the integrated system.
 Enhanced Security: Implemented robust security measures to protect the API and ensure data integrity.
-Link to Project: Project Repository (Insert link to your GitHub repository or project documentation)
+
+# Link to Project: Project Repository (Insert link to your GitHub repository or project documentation)
 
 This project showcases the integration of IoT technology with a secure, machine learning-enabled backend to create an efficient and reliable food quality detection system.
