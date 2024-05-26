@@ -13,31 +13,31 @@ To create a reliable and secure system for detecting and analyzing food quality 
 
 # Key Responsibilities:
 
-IoT Integration
+# 1.IoT Integration
 
 Implemented IoT sensors and devices to collect real-time data on various food quality parameters.
 Ensured seamless communication between IoT devices and the backend server.
-Backend Development
+# 2.Backend Development
 
 Developed a robust Django backend to handle data processing and analysis.
 Utilized machine learning models to analyze data collected from IoT devices for food quality assessment.
-API Development
+# 3.API Development
 
 Created a secure Django Rest API to facilitate communication between IoT devices and the backend server.
 Implemented RESTful endpoints for data submission, retrieval, and analysis results.
-Security Features
+# 4.Security Features
 
 Enhanced API security by implementing Token-based authentication, API key validation, and permission controls.
 Ensured that only authorized devices and users can access the API endpoints.
-Database Management
+# 5.Database Management
 
 Designed and managed the MySQL database to store food quality data and analysis results.
 Ensured efficient data storage and retrieval for real-time analysis.
-Result Analysis
+# 6.Result Analysis
 
 Integrated machine learning models into the Django application for processing and analyzing food quality data.
 Provided real-time feedback on food quality based on the analysis.
-Technical Skills Demonstrated:
+# Technical Skills Demonstrated:
 
 Programming Languages: Python
 Web Framework: Django
@@ -46,7 +46,7 @@ API Development: Django Rest Framework
 Security: Token-based authentication, API key validation, permission controls
 IoT: Sensor integration, data collection, device communication
 Machine Learning: Data analysis, real-time feedback
-Project Highlights:
+# Project Highlights:
 
 Automated Detection: Successfully automated the detection and analysis of food quality using IoT and machine learning.
 Secure API: Developed a secure and scalable REST API to handle data from multiple IoT devices.
